@@ -1,28 +1,28 @@
-# [Start Bootstrap - Landing Page](https://startbootstrap.com/template-overviews/landing-page/)
+# [Start Bootstrap - Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/)
 
-[Landing Page](http://startbootstrap.com/template-overviews/landing-page/) is a multipurpose landing page template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
+[Coming Soon](https://startbootstrap.com/template-overviews/coming-soon/) is a simple coming soon theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This theme features a background video with a mobile background image fallback.
 
 ## Preview
 
-[![Landing Page Preview](https://startbootstrap.com/assets/img/screenshots/themes/landing-page.png)](https://blackrockdigital.github.io/startbootstrap-landing-page/)
+[![Coming Soon Preview](https://startbootstrap.com/assets/img/screenshots/themes/coming-soon.png)](https://blackrockdigital.github.io/startbootstrap-coming-soon/)
 
-**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-landing-page/)**
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-coming-soon/)**
 
 ## Status
 
-[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-landing-page/master/LICENSE)
-[![npm version](https://img.shields.io/npm/v/startbootstrap-landing-page.svg)](https://www.npmjs.com/package/startbootstrap-landing-page)
-[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-landing-page.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-landing-page)
-[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-landing-page/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-landing-page)
-[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-landing-page/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-landing-page?type=dev)
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-coming-soon/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-coming-soon.svg)](https://www.npmjs.com/package/startbootstrap-coming-soon)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-coming-soon)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-coming-soon?type=dev)
 
 ## Download and Installation
 
 To begin using this template, choose one of the following options to get started:
-* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/landing-page/)
-* Install via npm: `npm i startbootstrap-landing-page`
-* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-landing-page.git`
-* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-landing-page)
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/coming-soon/)
+* Install via npm: `npm i startbootstrap-coming-soon`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-coming-soon.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-coming-soon)
 
 ## Usage
 
@@ -46,7 +46,7 @@ You must have npm and Gulp installed globally on your machine in order to use th
 
 ## Bugs and Issues
 
-Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-landing-page/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/landing-page/).
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-coming-soon/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/coming-soon/).
 
 ## About
 
@@ -65,4 +65,4 @@ Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework 
 
 ## Copyright and License
 
-Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-landing-page/blob/gh-pages/LICENSE) license.
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-coming-soon/blob/gh-pages/LICENSE) license.
